@@ -1,3 +1,5 @@
+-- StarterPlayerScripts
+
 local Camera = game.Workspace.CurrentCamera
 local Player = game.Players.LocalPlayer
 local Mouse = Player:GetMouse()
